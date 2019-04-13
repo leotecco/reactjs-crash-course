@@ -3,3 +3,29 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a {
+    color: #333333;
+    text-decoration: none;
+}
+
+.container {
+    padding: 0 1rem;
+}
+
+.btn {
+    display: inline-block;
+    border: none;
+    background: #555555;
+    color: #ffffff;
+    padding: 7px 20px;
+    cursor: pointer;
+}
+
+.btn:hover {
+    background: #666666;
+}
